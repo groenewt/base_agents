@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = https://github.com/groenewt/core
+[submodule "sbin"]
+	path = sbin
+	url = https://github.com/groenewt/base_bin
+[submodule "docs"]
+	path = docs
+	url = https://github.com/groenewt/base_agents_docs
